@@ -2,7 +2,6 @@
 
 <br/>
 <h2>Descrição</h2>
-<hr>
 Looking for Bananas in the Monkeys island Given a Jungle in the middle of an island of n*m dimensions. <br/>
 Each field in this jungle contains a positive integer which is the amount of bananas that exist in that field. <br/>
 Initially the monkey is at first column but can be at any row. <br/>
@@ -12,7 +11,6 @@ Find out the maximum amount of bananas they can collect.
 
 <br/><br/><br/>
 <h2>Solução pensada </h2>
-<hr>
 A intenção do método principal é percorrer o array bidimensional de trás para frente, ou seja,<br/>
 passando pelas linhas da última coluna até percorrer as linhas da primeira coluna.<br/>
 
@@ -25,7 +23,6 @@ https://www.youtube.com/watch?v=6rqcqUyyXvM
 
 <br/><br/>
 <h2>Dados de entrada</h2>
-<hr>
 Por ser uma aplicação simples, não foi criado classe de teste.<br/>
 Na classe main adicionei 3 mocks e coloquei os resultados esperados em forma de comentário.
 
@@ -33,7 +30,6 @@ Na classe main adicionei 3 mocks e coloquei os resultados esperados em forma de 
 
 <br/><br/>
 <h2>Testar</h2>
-<hr>
 Seguir os passos:<br/>
 1. Realizar o clone do projeto <br/>
 2. Abri na IDE favorita (foi utilizado Spring Tool Suite) <br/>
